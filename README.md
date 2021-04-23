@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JannisS0311
+- 👋 Hi, I’m Jannis
 - 📚 I’m currently studying medical computer science
 - 👀 I’m interested in SmartHome
 - 🌱 I’m currently learning all different kinds of stuff
