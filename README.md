@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JannisS0311
 - 👀 I’m interested in SmartHome
-- 🌱 I’m currently learning all different Kinds of stuff
+- 🌱 I’m currently learning all different kinds of stuff
