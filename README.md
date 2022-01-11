@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jannis
 - 📚 I’m currently studying computer science
-- 👀 I’m interested in SmartHome
+- 👀 I’m interested in SmartHome & IoT 
 - 🌱 I’m currently learning all different kinds of stuff
